@@ -1,0 +1,15 @@
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\SportShoesShop.dll.config
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\SportShoesShop.dll
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\SportShoesShop.pdb
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\Microsoft.Owin.dll
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\Nancy.dll
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\Nancy.Owin.dll
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\Owin.dll
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\Microsoft.Owin.xml
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\Nancy.xml
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\bin\Nancy.Owin.xml
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\obj\Debug\SportShoesShop.csprojResolveAssemblyReference.cache
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\obj\Debug\SportShoesShop.dll
+C:\Users\tmalyhov\Documents\SportShoesShop\SportShoesShop\obj\Debug\SportShoesShop.pdb
